@@ -8,7 +8,7 @@ This repository is preserved as part of my software engineering portfolio to sho
 
 ---
 
-## 🚀 Features
+## Features
 
 - User registration
 - Wallet management
@@ -23,7 +23,7 @@ This repository is preserved as part of my software engineering portfolio to sho
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Python
 - Telegram Bot API
@@ -35,7 +35,7 @@ This repository is preserved as part of my software engineering portfolio to sho
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tipedashp.py
@@ -46,7 +46,7 @@ LICENSE
 
 ---
 
-## ⚙ Installation
+## Installation
 
 Clone the repository:
 
@@ -70,7 +70,7 @@ python tipedashp.py
 
 ---
 
-## 📌 Configuration
+## Configuration
 
 The bot requires a local configuration file containing:
 
@@ -82,7 +82,7 @@ Sensitive configuration files should **never** be committed to the repository.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project was developed as a practical implementation of a cryptocurrency wallet and tipping bot integrated with a blockchain node through JSON-RPC.
 
@@ -97,7 +97,7 @@ It demonstrates concepts including:
 
 ---
 
-## 📜 Historical Note
+## Historical Note
 
 This project was originally developed in 2019 as part of the Dash Platinum blockchain ecosystem.
 
@@ -105,13 +105,13 @@ It is preserved here as a historical portfolio project demonstrating software en
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Felicio Xavier
 
