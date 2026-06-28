@@ -1,4 +1,4 @@
-# Telegram TipBot
+# Telegram Blockchain TipBot
 
 A Telegram wallet and tipping bot developed in Python for blockchain projects using JSON-RPC.
 
